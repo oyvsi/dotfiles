@@ -5,7 +5,7 @@ set shiftwidth=4
 " Make backspace remove all shift when deleting a tab-equivalent
 set softtabstop=4
 " Make spaces, not tabs
-"set expandtab
+set expandtab
 " Autoindent
 set smarttab
 " Make colors sane
